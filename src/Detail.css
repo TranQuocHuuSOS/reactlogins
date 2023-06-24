@@ -1,0 +1,57 @@
+.title-name{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    margin: auto;
+}
+.dayss {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    margin: auto;
+    text-align: center;
+    margin-top: 20px;
+}
+.price{
+    display: flex;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    margin: auto;
+    margin-top: 20px;
+}
+.book{
+    padding: 10px;
+}
+.ship{
+    padding: 10px;
+}
+.name-driver{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    margin: auto;
+    text-align: center;
+}
+.name-vehicle{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    margin: auto;
+    text-align: center;
+    margin-top: 10px;
+}
+.function{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    margin: auto;
+    text-align: center;
+    margin-top: 80px;
+}

@@ -1,0 +1,293 @@
+{
+  "products": [
+    {
+      "name": "Bánh Tapioca Brazil",
+      "price": "20",
+      "image": "https://cdn.lawnet.vn/nhch-images//CauHoi_Hinh/61c42456-7421-4d85-8e8b-fbdb0e61cc0f.jpg",
+      "name_category": "sản phẩm hot",
+      "color": "Hồng bánh kem",
+      "material": "Bánh và trứng",
+      "expiry_date": "2020-03-21",
+      "origin": "Brazil",
+      "tinhtranghang": true,
+      "description": "Dành cho những người đói bụng",
+      "id": "gg"
+    },
+    {
+      "name": "Bánh táo Mỹ a",
+      "price": "80",
+      "image": "https://cdn.lawnet.vn/nhch-images//CauHoi_Hinh/61c42456-7421-4d85-8e8b-fbdb0e61cc0f.jpg",
+      "name_category": "trtr",
+      "color": "te",
+      "material": "tet",
+      "expiry_date": "êtr",
+      "origin": "rtr",
+      "tinhtranghang": "trtr",
+      "description": "rttr",
+      "id": "UiWAkWH"
+    },
+    {
+      "name": "Bánh Gateau St. Honore",
+      "price": "3534534",
+      "image": "https://cdn.lawnet.vn/nhch-images//CauHoi_Hinh/61c42456-7421-4d85-8e8b-fbdb0e61cc0f.jpg",
+      "name_category": "sản phẩm khuyến mãi",
+      "color": "Hồng",
+      "material": "Từ thiên nhiên",
+      "expiry_date": "2019-11-10",
+      "origin": "Quãng Nam",
+      "tinhtranghang": "436436346",
+      "description": "Bánh ngon lắm",
+      "id": "zVCXZab"
+    },
+    {
+      "name": "h",
+      "price": "44",
+      "image": "https://cdn.lawnet.vn/nhch-images//CauHoi_Hinh/61c42456-7421-4d85-8e8b-fbdb0e61cc0f.jpg",
+      "name_category": "h",
+      "color": "h",
+      "material": "h",
+      "expiry_date": "h",
+      "origin": "h",
+      "tinhtranghang": "h",
+      "description": "h",
+      "id": "pfzc5z3"
+    },
+    {
+      "name": "QUICK BREAD – BÁNH MÌ NHANH",
+      "price": "13",
+      "image": "https://cdn.lawnet.vn/nhch-images//CauHoi_Hinh/61c42456-7421-4d85-8e8b-fbdb0e61cc0f.jpg",
+      "name_category": "sản phẩm hot",
+      "color": "Xám cháy",
+      "material": "Bột mỳ và trứng, mè đậu phộng",
+      "expiry_date": "2019-11-24",
+      "origin": "Việt Nam",
+      "tinhtranghang": true,
+      "description": "Là loại bánh mỳ hảo hạn",
+      "id": "MM0kH3h"
+    },
+    {
+      "name": "Bánh PVT",
+      "price": "24",
+      "image": "https://cdn.lawnet.vn/nhch-images//CauHoi_Hinh/61c42456-7421-4d85-8e8b-fbdb0e61cc0f.jpg",
+      "name_category": "sản phẩm khuyến mãi",
+      "color": "Đỏ hồng",
+      "material": "Nhà làm ",
+      "expiry_date": "2020-02-14",
+      "origin": "ĐăkLăk",
+      "tinhtranghang": true,
+      "description": "Bánh ngon bổ rẻ mà lại an toàn",
+      "id": "uccIyXa"
+    },
+    {
+      "name": "Bánh Gato mặn",
+      "price": "50",
+      "image": "data:image/jpeg;base64,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",
+      "name_category": "sản phẩm hot",
+      "color": "Màu hồng kem",
+      "material": "Trứng bơ sữa bột đường yến mạch",
+      "expiry_date": "2019-11-23",
+      "origin": "Quãng Nam",
+      "tinhtranghang": "",
+      "description": "Bánh ngon",
+      "id": "CMO5Rpk"
+    },
+    {
+      "name": "Thong",
+      "price": "70",
+      "image": "https://static2.avayha.com/uploads/2021/05/30125030/Mie_cover.jpg",
+      "name_category": "sản phẩm mới",
+      "color": "Hồng",
+      "material": "Bánh trứng",
+      "expiry_date": "2019-11-02",
+      "origin": "Viet Nam",
+      "tinhtranghang": "",
+      "description": "Adidas UltraBOOST",
+      "id": "aQGFi-p"
+    },
+    {
+      "name": "bánh ý",
+      "price": "90",
+      "image": "https://static2.avayha.com/uploads/2021/05/30125030/Mie_cover.jpg",
+      "name_category": "sản phẩm mới",
+      "color": "vàng",
+      "material": "Bánh trứng",
+      "expiry_date": "2019-11-06",
+      "origin": "Viet Nam",
+      "tinhtranghang": true,
+      "description": "bánh ngon",
+      "id": "5V-ghxy"
+    },
+    {
+      "name": "Bánh nhật Bản",
+      "price": "3000000000000000000000",
+      "image": "https://blog.beemart.vn/wp-content/uploads/2016/07/tong-hop-cac-loai-banh-ngot-Phap-noi-tieng-lam-me-man-long-nguoi-5.jpg",
+      "name_category": "ree",
+      "color": "Xanh",
+      "material": "Bột ngũ cốc",
+      "expiry_date": "2020-07-10",
+      "origin": "Việt Nam",
+      "tinhtranghang": true,
+      "description": "Ăn  càng nhiều càng tốt",
+      "id": "GyV1IQz"
+    },
+    {
+      "name": "Bánh nhật Bản",
+      "price": "200000",
+      "image": "https://product.hstatic.net/1000104153/product/banh_oc_que_kem_80404fd5a8ca49a0b0a1d8cd652492a5_grande.jpg",
+      "name_category": "sdfghjkl;",
+      "color": "Xanh",
+      "material": "Bột ngũ cốc",
+      "expiry_date": "2021-05-13",
+      "origin": "Việt Nam",
+      "tinhtranghang": "",
+      "description": "Ăn  càng nhiều càng tốt",
+      "id": "HaJqmMK"
+    },
+    {
+      "name": "nếu là tất cả ",
+      "price": "324124",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmcZpJy1RPc4xu6ZkrLGkNyfvMWDEK0oHwKw&usqp=CAU",
+      "name_category": "sản phẩm khuyến mãi",
+      "color": "màu da cam",
+      "material": "cotton sơn la thái bình",
+      "expiry_date": "2024-05-02",
+      "origin": "hoa kỳ",
+      "tinhtranghang": true,
+      "description": "",
+      "id": "sDJ28Kg"
+    },
+    {
+      "name": "nếu anh thích em thì sao",
+      "price": "654321",
+      "image": "https://lzd-img-global.slatic.net/g/ff/kf/Sc478042ffa0b442ebb302557fae4966bH.jpg_720x720q80.jpg",
+      "name_category": "sản phẩm khuyến mãi",
+      "color": "màu da cam",
+      "material": "cotton",
+      "expiry_date": "2025-04-24",
+      "origin": "bản xứ",
+      "tinhtranghang": true,
+      "description": "quá ok ",
+      "id": "kkmGBE3"
+    },
+    {
+      "name": "bánh bông lan",
+      "price": "54",
+      "image": "https://lzd-img-global.slatic.net/g/ff/kf/Sc478042ffa0b442ebb302557fae4966bH.jpg_720x720q80.jpg",
+      "name_category": "sản phẩm khuyến mãi",
+      "color": "màu da cam",
+      "material": "cotton sơn la thái bình",
+      "expiry_date": "2023-11-17",
+      "origin": "hoa kỳ",
+      "tinhtranghang": true,
+      "description": "dfgfd",
+      "id": "aZJDBig"
+    },
+    {
+      "name": "bánh tuyến đen",
+      "price": "432",
+      "image": "https://lzd-img-global.slatic.net/g/ff/kf/Sc478042ffa0b442ebb302557fae4966bH.jpg_720x720q80.jpg",
+      "name_category": "sản phẩm khuyến mãi",
+      "color": "màu da cam",
+      "material": "yeyy",
+      "expiry_date": "2024-07-25",
+      "origin": "hoa kỳ",
+      "tinhtranghang": true,
+      "description": "quá ok ",
+      "id": "C6bW5OF"
+    },
+    {
+      "name": "bánh ông hai ",
+      "price": "454",
+      "image": "data:image/jpeg;base64,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",
+      "name_category": "sản phẩm khuyến mãi",
+      "color": "4t",
+      "material": "tttt",
+      "expiry_date": "2023-06-24",
+      "origin": "reyryyreeyr",
+      "tinhtranghang": true,
+      "description": "quá ok ",
+      "id": "cZjM9An"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "tendm": "sản phẩm mới"
+    },
+    {
+      "id": "2",
+      "tendm": "sản phẩm hot"
+    },
+    {
+      "id": "3",
+      "tendm": "sản phẩm khuyến mãi"
+    }
+  ],
+  "contacts": [
+    {
+      "id": "1",
+      "name": "Thông Phan",
+      "email": "thong38676@donga.edu.vn",
+      "messages": "Cảm ơn đã giới thiệu cho tôi những loại thực phẩm tuyệt vời",
+      "status": ""
+    },
+    {
+      "name": "Hoàng Đạt",
+      "email": "datcho@gmail.com",
+      "messages": "Test chức năng tạo phản hồi",
+      "id": "zakHs3d",
+      "status": "xn"
+    },
+    {
+      "name": "Anh Đào",
+      "email": "daopro_cutephomaique@gmail.com",
+      "messages": "Hello Tất cả ban quản trị Shop Cake",
+      "status": "abc",
+      "id": "dfbdgBS"
+    },
+    {
+      "name": "Vương Trịnh",
+      "email": "vuongtrinh@gmail.com",
+      "messages": "Shop giới thiệu bánh chất v~ @@",
+      "status": "false",
+      "id": "lHADWqG"
+    },
+    {
+      "name": "dat hoang",
+      "email": "huynhtanhoangdat48@gmail.com",
+      "messages": "abcxyz",
+      "status": "",
+      "id": "ko2SB1B"
+    },
+    {
+      "name": "Vuong",
+      "email": "vuong@gmail.com",
+      "messages": "Test Contact",
+      "status": "",
+      "id": "E_9V6OU"
+    },
+    {
+      "name": "Nguyễn Thị Minh Trâm",
+      "email": "dinhvcvn@gmail.com",
+      "messages": "Helllo moi nguoi",
+      "status": "",
+      "id": "2fACWGv"
+    }
+  ],
+  "user": [
+    {
+      "username": "sản phẩm mới",
+      "password": "sản phẩm mới",
+      "email": "h24@gmail.com"
+    }
+  ],
+  "orders": [
+    {
+      "name": "1",
+      "image": "sản phẩm mới",
+      "color": "sản phẩm mới",
+      "price": "1234",
+      "description": "bánh ngon"
+    }
+  ]
+}
